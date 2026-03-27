@@ -21,7 +21,8 @@ To help users get a basic idea of possible illnesses based on symptoms and provi
    pip install -r requirements.txt
 
 2. Run the app:
-   streamlit run app.py
+   streamlit run app.py   or    .\.venv\Scripts\Activate.ps1 streamlit run app.py
+
 
 ## 🧠 Features
 
